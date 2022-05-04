@@ -1,0 +1,22 @@
+* {font-family: 'Libre Bodoni', serif;
+}
+
+h1{
+    color: aquamarine;
+    background-color: blue;
+    width: 300px;
+} 
+p {
+    background-color: aqua;
+    width: 300px;
+    height: 150px;
+    margin: 10px;;
+}
+div{
+    background-color: greenyellow;
+    padding: 40px;
+    outline: 2px solid white; 
+    outline-offset: -20px;
+    width: 300px;
+    height: 150px;
+}

@@ -1,0 +1,18 @@
+* {background-color: bisque
+    ;}
+
+    .idol {
+        height: 300px;
+    }  
+    button {
+        width: fit-content;
+        height: fit-content;
+        border-color: blue;
+        background-color: aquamarine;
+        color: blueviolet;
+    }
+    button:hover{
+        color: beige;
+        background-color: blueviolet;
+        border: none;
+    }
